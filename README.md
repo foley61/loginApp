@@ -1,5 +1,4 @@
-React Login page <br>
-live site: https://yvzklc.github.io/loginapp/ <br>
+React Login page 
 
 Screenshot:
 ![](./public/projectImg.png)
